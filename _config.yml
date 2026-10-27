@@ -1,0 +1,2 @@
+# GitHub Pages: publish dot-folders such as .well-known (Android app links)
+include: [".well-known"]
